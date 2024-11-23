@@ -7,31 +7,31 @@
   </p>
 
   <p>
-    <a href="https://github.com/WalleMechson/Authsavvy-react-nextjs-typescript/graphs/contributors">
-      <img src="https://img.shields.io/github/contributors/WalleMechson/Authsavvy-react-nextjs-typescript" alt="contributors" />
+    <a href="https://github.com/TsotnePharsenadze/Authsavvy-react-nextjs-typescript/graphs/contributors">
+      <img src="https://img.shields.io/github/contributors/TsotnePharsenadze/Authsavvy-react-nextjs-typescript" alt="contributors" />
     </a>
     <a href="">
-      <img src="https://img.shields.io/github/last-commit/WalleMechson/Authsavvy-react-nextjs-typescript" alt="last update" />
+      <img src="https://img.shields.io/github/last-commit/TsotnePharsenadze/Authsavvy-react-nextjs-typescript" alt="last update" />
     </a>
-    <a href="https://github.com/WalleMechson/Authsavvy-react-nextjs-typescript/network/members">
-      <img src="https://img.shields.io/github/forks/WalleMechson/Authsavvy-react-nextjs-typescript" alt="forks" />
+    <a href="https://github.com/TsotnePharsenadze/Authsavvy-react-nextjs-typescript/network/members">
+      <img src="https://img.shields.io/github/forks/TsotnePharsenadze/Authsavvy-react-nextjs-typescript" alt="forks" />
     </a>
-    <a href="https://github.com/WalleMechson/Authsavvy-react-nextjs-typescript/stargazers">
-      <img src="https://img.shields.io/github/stars/WalleMechson/Authsavvy-react-nextjs-typescript" alt="stars" />
+    <a href="https://github.com/TsotnePharsenadze/Authsavvy-react-nextjs-typescript/stargazers">
+      <img src="https://img.shields.io/github/stars/TsotnePharsenadze/Authsavvy-react-nextjs-typescript" alt="stars" />
     </a>
-    <a href="https://github.com/WalleMechson/Authsavvy-react-nextjs-typescript/issues/">
-      <img src="https://img.shields.io/github/issues/WalleMechson/Authsavvy-react-nextjs-typescript" alt="open issues" />
+    <a href="https://github.com/TsotnePharsenadze/Authsavvy-react-nextjs-typescript/issues/">
+      <img src="https://img.shields.io/github/issues/TsotnePharsenadze/Authsavvy-react-nextjs-typescript" alt="open issues" />
     </a>
   </p>
    
   <h4>
     <a href="#">Not avaliable because of unverified domain for RESEND</a>
     <span> · </span>
-    <a href="https://github.com/WalleMechson/Authsavvy-react-nextjs-typescript/blob/main/readme.md">Documentation</a>
+    <a href="https://github.com/TsotnePharsenadze/Authsavvy-react-nextjs-typescript/blob/main/readme.md">Documentation</a>
     <span> · </span>
-    <a href="https://github.com/WalleMechson/Authsavvy-react-nextjs-typescript/issues/">Report Bug</a>
+    <a href="https://github.com/TsotnePharsenadze/Authsavvy-react-nextjs-typescript/issues/">Report Bug</a>
     <span> · </span>
-    <a href="https://github.com/WalleMechson/Authsavvy-react-nextjs-typescript/issues/">Request Feature</a>
+    <a href="https://github.com/TsotnePharsenadze/Authsavvy-react-nextjs-typescript/issues/">Request Feature</a>
   </h4>
 </div>
 
@@ -66,7 +66,7 @@
 - Clone the repository:
 
   ```bash
-  git clone https://github.com/WalleMechson/Authsavvy-react-nextjs-typescript
+  git clone https://github.com/TsotnePharsenadze/Authsavvy-react-nextjs-typescript
   ```
 
 - Navigate to the project directory:
@@ -123,20 +123,20 @@ NEXT_PUBLIC_APP_URL=""
 
 <table>
   <tr>
-    <td><img width="400" alt="2FA Code Page" src="https://github.com/WalleMechson/Authsavvy-react-nextjs-typescript/blob/main/public/2faCodePage.PNG"></td>
-    <td><img width="400" alt="Admin Actions Permissions Page" src="https://github.com/WalleMechson/Authsavvy-react-nextjs-typescript/blob/main/public/adminActionsPermissionsPage.PNG"></td>
+    <td><img width="400" alt="2FA Code Page" src="https://github.com/TsotnePharsenadze/Authsavvy-react-nextjs-typescript/blob/main/public/2faCodePage.PNG"></td>
+    <td><img width="400" alt="Admin Actions Permissions Page" src="https://github.com/TsotnePharsenadze/Authsavvy-react-nextjs-typescript/blob/main/public/adminActionsPermissionsPage.PNG"></td>
   </tr>
   <tr>
-    <td><img width="400" alt="Client Side Actions Page" src="https://github.com/WalleMechson/Authsavvy-react-nextjs-typescript/blob/main/public/clientSideActionsPage.PNG"></td>
-    <td><img width="400" alt="Edit Settings Page" src="https://github.com/WalleMechson/Authsavvy-react-nextjs-typescript/blob/main/public/editSettingsPage.PNG"></td>
+    <td><img width="400" alt="Client Side Actions Page" src="https://github.com/TsotnePharsenadze/Authsavvy-react-nextjs-typescript/blob/main/public/clientSideActionsPage.PNG"></td>
+    <td><img width="400" alt="Edit Settings Page" src="https://github.com/TsotnePharsenadze/Authsavvy-react-nextjs-typescript/blob/main/public/editSettingsPage.PNG"></td>
   </tr>
   <tr>
-    <td><img width="400" alt="Login Page" src="https://github.com/WalleMechson/Authsavvy-react-nextjs-typescript/blob/main/public/loginPage.PNG"></td>
-    <td><img width="400" alt="Password Recovery Page" src="https://github.com/WalleMechson/Authsavvy-react-nextjs-typescript/blob/main/public/passwordRecoveryPage.PNG"></td>
+    <td><img width="400" alt="Login Page" src="https://github.com/TsotnePharsenadze/Authsavvy-react-nextjs-typescript/blob/main/public/loginPage.PNG"></td>
+    <td><img width="400" alt="Password Recovery Page" src="https://github.com/TsotnePharsenadze/Authsavvy-react-nextjs-typescript/blob/main/public/passwordRecoveryPage.PNG"></td>
   </tr>
   <tr>
-    <td><img width="400" alt="Registration Page" src="https://github.com/WalleMechson/Authsavvy-react-nextjs-typescript/blob/main/public/registrationPage.PNG"></td>
-    <td><img width="400" alt="Server Side Actions Page" src="https://github.com/WalleMechson/Authsavvy-react-nextjs-typescript/blob/main/public/serverSideActionsPage.png"></td>
+    <td><img width="400" alt="Registration Page" src="https://github.com/TsotnePharsenadze/Authsavvy-react-nextjs-typescript/blob/main/public/registrationPage.PNG"></td>
+    <td><img width="400" alt="Server Side Actions Page" src="https://github.com/TsotnePharsenadze/Authsavvy-react-nextjs-typescript/blob/main/public/serverSideActionsPage.png"></td>
   </tr>
 </table>
 
