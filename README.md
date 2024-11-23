@@ -2,10 +2,13 @@
   <br/>
             <h1 style="font-size: 70px;">🔐 AuthSavvy</h1>
   <br/>
-  <p>
-    Authsavvy is a project centered around Auth.js (Previously known as NextAuth). it consists from everything that you might want to get from Auth.js
-  </p>
-
+<table>
+  <tr>
+    <td><img width="400" alt="2FA Code Page" src="https://github.com/TsotnePharsenadze/Authsavvy-react-nextjs-typescript/blob/main/public/2faCodePage.PNG"></td>
+    <td><img width="400" alt="Admin Actions Permissions Page" src="https://github.com/TsotnePharsenadze/Authsavvy-react-nextjs-typescript/blob/main/public/adminActionsPermissionsPage.PNG"></td>
+    <td><img width="400" alt="Client Side Actions Page" src="https://github.com/TsotnePharsenadze/Authsavvy-react-nextjs-typescript/blob/main/public/clientSideActionsPage.PNG"></td>
+  </tr>
+</table>
   <p>
     <a href="https://github.com/TsotnePharsenadze/Authsavvy-react-nextjs-typescript/graphs/contributors">
       <img src="https://img.shields.io/github/contributors/TsotnePharsenadze/Authsavvy-react-nextjs-typescript" alt="contributors" />
@@ -36,8 +39,6 @@
 </div>
 
 <br/>
-
-# Authsavvy by Walle Mechson (pseudo-name)
 
 ## Features
 
